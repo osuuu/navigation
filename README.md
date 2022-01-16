@@ -1,6 +1,8 @@
 
 <h2>纯前端开发网址导航，适合自用</h2>
-![](http://res.eemu.cn/LightPicture/2022/01/c6db3cd886d44e81.png)
+
+<img src="http://res.eemu.cn/LightPicture/2022/01/c6db3cd886d44e81.png" alt="LightPicture"/>
+
 
 [演示地址](http://h234.cn)
 
